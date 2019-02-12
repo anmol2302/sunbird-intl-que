@@ -118,6 +118,9 @@ To bulk upload content,
 
 and for authoring questions(mcq's) we can easily do that from the ui itself. <br>
 
+- Question : ML based content curation – How it works?
+<u> Answer </u> : We can tag content with specific keywords the techniques used is Deep Learning ,LSTM(Long short term memory) which give the respective content as a result  after performing any query search relaveant to any subject. and this model uses reinforcement learning which takes feedback of the result and improves the model for better search  results.<br> 
+
 
 
 
