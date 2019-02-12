@@ -60,16 +60,61 @@ Based on user responsibilities, rights are provided to:
 - publish 
 - consume
 
-Specific users are granted administration rights to manage users or organization profile creation, onboarding, deletion, passwords, and site look-and-feel customization.Based on user responsibilities, rights are provided to: 
+Specific users are granted administration rights to manage users or organization profile creation, onboarding, deletion, passwords, and site look-and-feel customization.Based on user responsibilities, rights are provided. <br>
 
-- create 
-- review 
-- publish 
-- consume
+- Question : How the plagiarism works? <br>
+<u> Answer </u> : Currently the plagiarism is not been in action with the following version relaesed. <br>
 
-Specific users are granted administration rights to manage users or organization profile creation, onboarding, deletion, passwords, and site look-and-feel customization.<br>
+- Question : Constraints like maximum size of the content allowed and how to increase that?<br>
+<u> Answer </u> :The platform supports:<br>
 
+Content / File type |Maximum File Size (for single file)
+--------------------|-----------------------------------
+Book,Course,Collection,Lesson Plan | 250 MB
+HTML (as zip files) |50 MB
+EPUB | 50 MB
+H5P |50 MB
+Video (.mp4, webm) | 25 MB
+.pdf | 25 MB <br>
 
+But this size is just a backend configuration we can change it easily.<br>
+- Question : Content export options ? <br>
+<u> Answer</u> : There is a script by running we can export our content from global enviroment to local enviroment. but this is a occasional activity and this option is not availaible to every user.<br>
+
+- Question : Bulk authoring of content – How is it done? How to author questions? How to author assessments?<br>
+<u> Answer </u> : 
+To bulk upload content,
+
+1. Send a mail to info@sunbird.org, with the subject as  request to bulk upload 
+2. Supported file formats:
+
+	- Text (.pdf)
+    	- Video (.mp4, .webm, YouTube URLs)
+    	- HTML 
+    	- ECML (created using the inbuilt content editor)
+    	- EPUB
+    	- H5P
+	
+3. File size should not exceed 25MB per file
+4. The team will respond with  a form (excel file), seeking basic information on the nature of the content
+5. Reply to the mail after filling in the required details, such as file name, description, file type, subject, class 
+6. This information will be used as metadata for each file. Metadata is important to make content searchable and usable by platform members
+7. Compress  all the content files into one .zip file. The size of the zip file should not exceed 25MB  
+8. Upload the .zip file on Google drive and share the link with or email the zipped folder to info@sunbird.org
+9. Ensure the following if the content is URL based:
+	
+	- The destination website uses HyperText Transfer Protocol Secure (https) and not  HyperText Transfer Protocol (http). 
+	- The destination website is enabled for cross origin resource sharing 
+
+	***Note:***
+	
+    Before sharing the .zip file, check that every author, or content creator is a registered user on the platform. To register on the platform, share your details at info@sunbird.org. All content that is  uploaded will be added with  the creator’s credentials
+
+10. On receiving the .zip file, the Content PMU will review it before it is uploaded 
+11. The status of all  content uploaded in bulk  will  be  ‘Draft’
+12. The system sends an email alert to the organization’s designated reviewers 
+13. On reviewing the content, the reviewer either accepts or rejects it
+14. On accepting the content, the reviewer clicks Publish, to make the content live on the platform
 
 
 
