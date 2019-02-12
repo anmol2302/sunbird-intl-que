@@ -60,10 +60,10 @@ Based on user responsibilities, rights are provided to:
 - publish 
 - consume
 
-Specific users are granted administration rights to manage users or organization profile creation, onboarding, deletion, passwords, and site look-and-feel customization.Based on user responsibilities, rights are provided. <br>
+Specific users are granted administration rights to manage users or organization profile creation, onboarding, deletion, passwords, and site look-and-feel customization.Based on user responsibilities, rights are provided.<br>
 
 - Question : How the plagiarism works? <br>
-<u> Answer </u> : Currently the plagiarism is not been in action with the following version relaesed. <br>
+<u> Answer </u> : Currently the plagiarism is not been in action with the following version relaesed.<br>
 
 - Question : Constraints like maximum size of the content allowed and how to increase that?<br>
 <u> Answer </u> :The platform supports:<br>
@@ -116,7 +116,7 @@ To bulk upload content,
 13. On reviewing the content, the reviewer either accepts or rejects it
 14. On accepting the content, the reviewer clicks Publish, to make the content live on the platform <br>
 
-and for authoring questions(mcq's) we can easily do that from the ui itself. <br>
+and for authoring questions(mcq's) we can easily do that from the ui itself.<br>
 
 - Question : ML based content curation – How it works?
 <u> Answer </u> : We can tag content with specific keywords the techniques used is Deep Learning ,LSTM(Long short term memory) which give the respective content as a result  after performing any query search relaveant to any subject. and this model uses reinforcement learning which takes feedback of the result and improves the model for better search  results.<br> 
