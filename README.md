@@ -120,10 +120,6 @@ and for authoring questions(mcq's) we can easily do that from the ui itself<br>
 
 - Question : ML based content curation – How it works?<br>
 <u> Answer </u> : We can tag content with specific keywords the techniques used is Deep Learning ,LSTM(Long short term memory) which give the respective content as a result  after performing any query search relaveant to any subject. and this model uses reinforcement learning which takes feedback of the result and improves the model for better search  results.<br> 
-
-
-
-<br/><br/>
 - Question :  How to generate QR codes. How to edit QR codes or DIAL codes <br/>
 <u>Answer:</u>  Dial code creation require API access. Ask the team to enable access to your api-key. 
 Use APIs to -<br/> ```Create publisher>Generate dial code>Update dial code and publisher>Publish dial code>Link dial code ```
