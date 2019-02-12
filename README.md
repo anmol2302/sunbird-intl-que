@@ -39,7 +39,6 @@ Draft->Review->Live/unlisted->flag(optional)```
 <u>Answer</u>
 
 
-
     Video (.mp4, .webm)
     HTML zip
     ECML (created using the inbuilt content editor)
@@ -51,4 +50,3 @@ Draft->Review->Live/unlisted->flag(optional)```
     URLs of YouTube videos and other files
     URLs of other externally hosted content
     
-  <br/><br/>
