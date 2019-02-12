@@ -1,4 +1,4 @@
-<center># SUNBIRD INTERNATIONAL QUERIES.</center>
+<center> SUNBIRD INTERNATIONAL QUERIES.</center>
 
 
 ## What is Sunbird??
@@ -9,7 +9,7 @@ Sunbird is a societal learning platform built for cloud/mobile native environmen
 
 - Question:  Roles of content editor or content service (Content creator, reviewer etc.) and what actions those roles can do?
 
-- Answer:    
+ <u>Answer</u>:    
             ### User Roles and Respective Responsibilities
 
 |  User Role    | Content Creation | Review, Reject , & Publish | Upload Content | Other Actions |
@@ -24,5 +24,8 @@ Sunbird is a societal learning platform built for cloud/mobile native environmen
 |A **Public** user is any user with registered credentials | No | No | No | ✔️  <a href="features-documentation/userrole/#role-specific-responsibilites"> read more</a>
 | An **Announcement Sender** creates and sends announcements. The Announcement feature allows to send system wide messages to a target audience| No | No | No | ✔️  <a href="features-documentation/userrole/#role-specific-responsibilites"> read more</a>
 | A **Content Creator** is a registered user with permission to create content | ✔️ (Collection, Course, Study Material, Lesson Plan) | No | ✔️ | No
+
+
+
 
 
