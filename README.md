@@ -27,6 +27,10 @@ Sunbird is a societal learning platform built for cloud/mobile native environmen
 
 
 - Question : Content publishing/workflow states???
-<u>Answer</u> :  Status &rarr Draft &rarr Review &rarr Live/unlisted &rarr flag(optional)
+<u>Answer</u> : ```sequence
+Draft->Review->Live/unlisted/flag(optional)```
+
+- Question : Content authoring in collaboration. How it works? Can two users open the same content at the same time and edit?
+ <u>Answer</u> : 
 
 
