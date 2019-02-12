@@ -26,6 +26,7 @@ Sunbird is a societal learning platform built for cloud/mobile native environmen
 | A **Content Creator** is a registered user with permission to create content | ✔️ (Collection, Course, Study Material, Lesson Plan) | No | ✔️ | No
 
 
-
+- Question : Content publishing/workflow states???
+<u>Answer</u> :  Status &rarr Draft &rarr Review &rarr Live/unlisted &rarr flag(optional)
 
 
