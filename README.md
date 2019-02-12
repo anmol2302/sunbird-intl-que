@@ -33,3 +33,22 @@ Draft->Review->Live/unlisted->flag(optional)```
 - Question : Content authoring in collaboration. How it works? Can two users open the same content at the same time and edit?
  <u>Answer</u> :  This Feature is still in devlopement Stage there is an Api call to Lock the content (params: userId,resourceId) and after making api call the content is locked for minimum 10 mins. and for content collaboration if two user(A,B) engaged in creating content then A will see his content in draft tab and B's content in collaboration tab
 
+
+<br/><br/>
+- Question : Types of content supported<br/>
+<u>Answer</u>
+
+
+
+    Video (.mp4, .webm)
+    HTML zip
+    ECML (created using the inbuilt content editor)
+    EPUB
+    H5P
+    Audio (.mp3)
+    Images (.jpeg, .png)
+    Document format (.pdf)
+    URLs of YouTube videos and other files
+    URLs of other externally hosted content
+    
+  <br/><br/>
