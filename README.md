@@ -109,16 +109,14 @@ To bulk upload content,
 	***Note:***
 	
     Before sharing the .zip file, check that every author, or content creator is a registered user on the platform. To register on the platform, share your details at info@sunbird.org. All content that is  uploaded will be added with  the creator’s credentials
-
 10. On receiving the .zip file, the Content PMU will review it before it is uploaded 
 11. The status of all  content uploaded in bulk  will  be  ‘Draft’
 12. The system sends an email alert to the organization’s designated reviewers 
 13. On reviewing the content, the reviewer either accepts or rejects it
-14. On accepting the content, the reviewer clicks Publish, to make the content live on the platform <br>
+14. On accepting the content, the reviewer clicks Publish, to make the content live on the platform<br>
+and for authoring questions(mcq's) we can easily do that from the ui itself<br>
 
-and for authoring questions(mcq's) we can easily do that from the ui itself.<br>
-
-- Question : ML based content curation – How it works?
+- Question : ML based content curation – How it works?<br>
 <u> Answer </u> : We can tag content with specific keywords the techniques used is Deep Learning ,LSTM(Long short term memory) which give the respective content as a result  after performing any query search relaveant to any subject. and this model uses reinforcement learning which takes feedback of the result and improves the model for better search  results.<br> 
 
 
