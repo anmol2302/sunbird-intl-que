@@ -131,11 +131,13 @@ Use APIs to -<br/> ```Create publisher>Generate dial code>Update dial code and p
 
 
 <br/>
+
 - Question : How to enable a plugin <br/>
 <u>Answer: The plugin can be enabled by providing the url of the plugin from the ui.</u>
 
 <br/>
 <br/>
+ 
 - Question : Development effort involved to develop a plugin <br/>
 <u>Answer:</u>  A plugin is developed as per the requirement. The plugin can be easily added from the ui.
     
