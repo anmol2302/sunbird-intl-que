@@ -37,8 +37,7 @@ Draft->Review->Live/unlisted->flag(optional)```
 <br/><br/>
 - Question : Types of content supported<br/>
 <u>Answer</u>
-
-
+    ```
     Video (.mp4, .webm)
     HTML zip
     ECML (created using the inbuilt content editor)
@@ -48,5 +47,4 @@ Draft->Review->Live/unlisted->flag(optional)```
     Images (.jpeg, .png)
     Document format (.pdf)
     URLs of YouTube videos and other files
-    URLs of other externally hosted content
-    
+    URLs of other externally hosted content. ```
