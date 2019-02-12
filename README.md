@@ -79,7 +79,7 @@ Video (.mp4, webm) | 25 MB
 
 But this size is just a backend configuration we can change it easily.<br>
 - Question : Content export options ? <br>
-<u> Answer</u> : There is a script by running we can export our content from global enviroment to local enviroment. but this is a occasional activity and this option is not availaible to every user.<br>
+<u> Answer</u> : There is a script by running we can export our content from global enviroment to local enviroment. but this                   is a occasional activity and this option is not availaible to every user.<br>
 
 - Question : Bulk authoring of content – How is it done? How to author questions? How to author assessments?<br>
 <u> Answer </u> : 
@@ -114,7 +114,11 @@ To bulk upload content,
 11. The status of all  content uploaded in bulk  will  be  ‘Draft’
 12. The system sends an email alert to the organization’s designated reviewers 
 13. On reviewing the content, the reviewer either accepts or rejects it
-14. On accepting the content, the reviewer clicks Publish, to make the content live on the platform
+14. On accepting the content, the reviewer clicks Publish, to make the content live on the platform <br>
+
+and for authoring questions(mcq's) we can easily do that from the ui itself. <br>
+
+
 
 
 
