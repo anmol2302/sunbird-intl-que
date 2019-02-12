@@ -36,7 +36,7 @@ Draft->Review->Live/unlisted->flag(optional)```
 
 <br/><br/>
 - Question : Types of content supported<br/>
-<u>Answer</u>
+<u>Answer:</u>
     ```
     Video (.mp4, .webm)
     HTML zip
