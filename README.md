@@ -49,10 +49,10 @@ Draft->Review->Live/unlisted->flag(optional)```
     URLs of other externally hosted content. ``` <br>
     
     
-    - Question : How to tag content? <br>
-    <u> Answer </u> : In a portal there is a wokspace section. so while creating resource we can specify the keywords in `Keyword` field ,the keywords must be the words which are related to the resource. <br>
-    -Question : How content gets flagged as inappropriate etc?<br>
-    <u> Answer </u> : In a content lifecycle we have a flag as a staus in wich if a content is inappropriate ,the project manager  can flag that content. so that content will dissappear.<br> 
+- Question : How to tag content? <br>
+<u> Answer </u> : In a portal there is a wokspace section. so while creating resource we can specify the keywords in `Keyword` field ,the keywords must be the words which are related to the resource. <br>
+-Question : How content gets flagged as inappropriate etc?<br>
+<u> Answer </u> : In a content lifecycle we have a flag as a staus in wich if a content is inappropriate ,the project manager  can flag that content. so that content will dissappear.<br> 
     
     
     
