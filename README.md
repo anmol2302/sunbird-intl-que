@@ -26,11 +26,10 @@ Sunbird is a societal learning platform built for cloud/mobile native environmen
 | A **Content Creator** is a registered user with permission to create content | ✔️ (Collection, Course, Study Material, Lesson Plan) | No | ✔️ | No
 
 
-- Question : Content publishing/workflow states???
+- Question : Content publishing/workflow states???<br>
 <u>Answer</u> : ```sequence
-Draft->Review->Live/unlisted/flag(optional)```
+Draft->Review->Live/unlisted->flag(optional)```
 
 - Question : Content authoring in collaboration. How it works? Can two users open the same content at the same time and edit?
- <u>Answer</u> : 
-
+ <u>Answer</u> :  This Feature is still in devlopement Stage there is an Api call to Lock the content (params: userId,resourceId) and after making api call the content is locked for minimum 10 mins. and for content collaboration if two user(A,B) engaged in creating content then A will see his content in draft tab and B's content in collaboration tab
 
